@@ -1,0 +1,4 @@
+C:\Users\илья\source\repos\ITMO2020WindowsFormsAppAlg\obj\Debug\ITMO2020WindowsFormsAppAlg.Form1.resources
+C:\Users\илья\source\repos\ITMO2020WindowsFormsAppAlg\obj\Debug\ITMO2020WindowsFormsAppAlg.Properties.Resources.resources
+C:\Users\илья\source\repos\ITMO2020WindowsFormsAppAlg\obj\Debug\ITMO2020WindowsFormsAppAlg.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\ITMO2020WindowsFormsAppAlg\obj\Debug\ITMO2020WindowsFormsAppAlg.csproj.CoreCompileInputs.cache

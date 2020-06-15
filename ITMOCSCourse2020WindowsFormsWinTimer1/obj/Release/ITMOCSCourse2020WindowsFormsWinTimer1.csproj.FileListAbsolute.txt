@@ -1,0 +1,11 @@
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\bin\Release\ITMOCSCourse2020WindowsFormsWinTimer1.exe.config
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\bin\Release\ITMOCSCourse2020WindowsFormsWinTimer1.exe
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\bin\Release\ITMOCSCourse2020WindowsFormsWinTimer1.pdb
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.Form1.resources
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.Properties.Resources.resources
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.UserControl1Timer.resources
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.exe
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsWinTimer1\obj\Release\ITMOCSCourse2020WindowsFormsWinTimer1.pdb

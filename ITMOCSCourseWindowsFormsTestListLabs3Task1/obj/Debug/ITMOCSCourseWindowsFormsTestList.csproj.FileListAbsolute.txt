@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\bin\Debug\ITMOCSCourseWindowsFormsTestList.exe.config
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\bin\Debug\ITMOCSCourseWindowsFormsTestList.exe
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\bin\Debug\ITMOCSCourseWindowsFormsTestList.pdb
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\obj\Debug\ITMOCSCourseWindowsFormsTestList.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\obj\Debug\ITMOCSCourseWindowsFormsTestList.Form1.resources
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\obj\Debug\ITMOCSCourseWindowsFormsTestList.Properties.Resources.resources
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\obj\Debug\ITMOCSCourseWindowsFormsTestList.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\obj\Debug\ITMOCSCourseWindowsFormsTestList.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\obj\Debug\ITMOCSCourseWindowsFormsTestList.exe
+C:\Users\илья\source\repos\ITMOCSCourseWindowsFormsTestList\obj\Debug\ITMOCSCourseWindowsFormsTestList.pdb

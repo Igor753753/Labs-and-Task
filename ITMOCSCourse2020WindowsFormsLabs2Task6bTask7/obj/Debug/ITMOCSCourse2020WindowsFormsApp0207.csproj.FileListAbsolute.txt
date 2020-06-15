@@ -1,0 +1,10 @@
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\bin\Debug\ITMOCSCourse2020WindowsFormsApp0207.exe.config
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\bin\Debug\ITMOCSCourse2020WindowsFormsApp0207.exe
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\bin\Debug\ITMOCSCourse2020WindowsFormsApp0207.pdb
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\obj\Debug\ITMOCSCourse2020WindowsFormsApp0207.csprojAssemblyReference.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\obj\Debug\ITMOCSCourse2020WindowsFormsApp0207.Form1.resources
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\obj\Debug\ITMOCSCourse2020WindowsFormsApp0207.Properties.Resources.resources
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\obj\Debug\ITMOCSCourse2020WindowsFormsApp0207.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\obj\Debug\ITMOCSCourse2020WindowsFormsApp0207.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\obj\Debug\ITMOCSCourse2020WindowsFormsApp0207.exe
+C:\Users\илья\source\repos\ITMOCSCourse2020WindowsFormsApp0207\obj\Debug\ITMOCSCourse2020WindowsFormsApp0207.pdb

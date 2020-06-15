@@ -1,0 +1,9 @@
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\bin\Debug\ITMOCSCourse2020.WindowsForms1.05.exe.config
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\bin\Debug\ITMOCSCourse2020.WindowsForms1.05.exe
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\bin\Debug\ITMOCSCourse2020.WindowsForms1.05.pdb
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\obj\Debug\ITMOCSCourse2020.WindowsForms1._05.Form1.resources
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\obj\Debug\ITMOCSCourse2020.WindowsForms1._05.Properties.Resources.resources
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\obj\Debug\ITMOCSCourse2020.WindowsForms1.05.csproj.GenerateResource.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\obj\Debug\ITMOCSCourse2020.WindowsForms1.05.csproj.CoreCompileInputs.cache
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\obj\Debug\ITMOCSCourse2020.WindowsForms1.05.exe
+C:\Users\илья\source\repos\ITMOCSCourse2020.WindowsForms1.05\obj\Debug\ITMOCSCourse2020.WindowsForms1.05.pdb
